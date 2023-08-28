@@ -156,7 +156,7 @@ This script analyzes an article and generates subreddit and post title recommend
 
 ---
   
-## Automatic Article Outline Generation by Analyzing The Article Text of Top Ranking Pages for a Given_Keyword
+## Automatic Article Outline Generation by Analyzing The Article Text of Top Ranking Pages for a Given Keyword
 [Google Colab](https://raw.githubusercontent.com/ktynski/Marketing_Automations_Notebooks_With_GPT/main/Automatic_Article_Outline_Generation_by_Analyzing_The_Article_Text_of_Top_Ranking_Pages_for_a_Given_Keyword_(Public).ipynb)
 
 This script scrapes and analyzes top-ranking pages for a keyword to generate automated article outlines optimized for SEO. Key features:
@@ -310,7 +310,7 @@ This script generates viral data journalism story ideas by chaining GPT-3 prompt
 
 ---
 
-**Automated Content and Keyword Clustering Descriptions with HuggingFace Embeddings, Agglomerative Clustering, and GPT-3**
+## Automated Content and Keyword Clustering Descriptions with HuggingFace Embeddings, Agglomerative Clustering, and GPT-3
 [Google Colab](https://github.com/ktynski/Marketing_Automations_Notebooks_With_GPT/blob/main/Automatic_Content_and_Keyword_Clustering_Descriptions_with_HuggingFace_Embeddings,_Agglomerative_Clustering_and_GPT_3_(Public).ipynb)
 
 - Simplifies content and keyword clustering using HuggingFace embeddings for keywords, agglomerative clustering for content, and GPT-3 for enhanced cluster descriptions.
@@ -321,7 +321,7 @@ This script generates viral data journalism story ideas by chaining GPT-3 prompt
 
 ---
 
-**Automatic Deep TikTok Insights with GPT and Whisper**
+## Automatic Deep TikTok Insights with GPT and Whisper
 [Google Colab](https://github.com/ktynski/Marketing_Automations_Notebooks_With_GPT/blob/main/Automatic_Deep_TikTok_Insights_with_GPT_and_Whisper_Public.ipynb)
 
 - Feed it a seed keyword, it will leverage the #Apify #TikTokScraper to extract associated search keywords in a recursive manner as per your specifications, and then download all related videos.
@@ -337,7 +337,7 @@ This script generates viral data journalism story ideas by chaining GPT-3 prompt
 
 ---
 
-**Automatic Persona and Motivation Research**
+## Automatic Persona and Motivation Research
 [Google Colab](https://github.com/ktynski/Marketing_Automations_Notebooks_With_GPT/blob/main/Automatic_Persona_and_Motivation_Research_(public).ipynb)
 
 - Takes a list of keywords
@@ -349,7 +349,7 @@ This script generates viral data journalism story ideas by chaining GPT-3 prompt
 
 ---
 
-**Automatic Question Expander ala AnswerThePublic**
+## Automatic Question Expander ala AnswerThePublic
 [Google Colab](https://github.com/ktynski/Marketing_Automations_Notebooks_With_GPT/blob/main/Automatic_Question_Expander_ala_AnswerThePublic_(Public).ipynb)
 
 -Takes a given topic
@@ -363,7 +363,7 @@ This script generates viral data journalism story ideas by chaining GPT-3 prompt
 
 ---
 
-**Automatic Reddit Trend Research with GPT3**
+## Automatic Reddit Trend Research with GPT3
 [Google Colab](https://github.com/ktynski/Marketing_Automations_Notebooks_With_GPT/blob/main/Automatic_Reddit_Trend_Research_with_GPT3_(Public).ipynb)
 
 - Takes a given keyword and scrapes all Reddit posts that match that keyword for a given number of posts and a date range.
@@ -376,7 +376,7 @@ This script generates viral data journalism story ideas by chaining GPT-3 prompt
 
 ---
 
-**Automatic Schema Improvements with GPT4**
+## Automatic Schema Improvements with GPT4
 [Google Colab](https://github.com/ktynski/Marketing_Automations_Notebooks_With_GPT/blob/main/Automatic_Schema_Improvements_with_GPT4_(Public).ipynb)
 
 - Extracts relevant information from a given URL using the newspaper3k library.
