@@ -3,7 +3,7 @@ This repo contains 20+ Google Colab experiments that leverage AI to partially or
 
 ---
 ---
----
+
 
 # 🎥 Leveraging SOTA MultiModal AI for Video Understanding - An Iterative Approach to Replicating Viral Success on TikTok 🐍
 [Google Colab](https://github.com/ktynski/Marketing_Automations_Notebooks_With_GPT/blob/main/Automated_TikTok_Video_Understanding_for_Social_Media_Strategy_(public).ipynb)
