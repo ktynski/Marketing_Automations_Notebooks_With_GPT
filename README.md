@@ -1,3 +1,6 @@
+# 20+ Free Scripts for Automating SEO, Content Marketing, PR, and Social Media with Artificial Intelligence
+This repo contains 20+ Google Colab experiments that leverage AI to partially or fully automate many different discrete Content Marketing, PR, Social Media, and SEO tasks written by Kristin Tynski (Kristin@Frac.tl)
+
 # 🎥 Leveraging SOTA MultiModal AI for Video Understanding - An Iterative Approach to Replicating Viral Success on TikTok 🐍
 [Google Colab](https://github.com/ktynski/Marketing_Automations_Notebooks_With_GPT/blob/main/Automated_TikTok_Video_Understanding_for_Social_Media_Strategy_(public).ipynb)
 
