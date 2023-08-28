@@ -33,6 +33,8 @@ This script scrapes Google News for relevant articles, clusters them using sente
 - SerpAPI Key
 - OpenAI API Key
 
+---
+
 # 📈 Automated Keyword Clustering for Content Gap Analysis 🕵️
 [Google Colab](https://github.com/ktynski/Marketing_Automations_Notebooks_With_GPT/blob/main/Automatic_Content_Gap_Report_and_Analysis_With_Clustering_and_Cluster_Descriptions_(Public).ipynb)
 
@@ -50,6 +52,8 @@ This script performs automated keyword research and clustering to identify conte
 - OpenAI API Key
 - SEMrush API Key
 
+---
+
 # 📰 Automated Long-form Article Generation with Semantic SEO Optimization 📝
 [Google Colab](https://github.com/ktynski/Marketing_Automations_Notebooks_With_GPT/blob/main/Automatic_Long_Form_Article_Generation_With_Semantic_SEO_Driven_Outlines_and_Iteration_(Public).ipynb)
 
@@ -64,6 +68,8 @@ This script generates high-quality long-form articles leveraging semantic SEO da
 
 📜 Requirements:  
 - OpenAI API Key
+
+---
 
 # 💡 Automatic Newsjacking Content Ideation using Clustering 💭
 [Google Colab](https://github.com/ktynski/Marketing_Automations_Notebooks_With_GPT/blob/main/Automatic_Newsjacking_Ideation_and_Trend_Analysis_(Public).ipynb)
@@ -80,7 +86,9 @@ This script collects news articles on a topic, clusters them using sentence embe
 - SerpAPI Key
 - OpenAI API Key
 
-## Automatic_TikTok_Video_Understanding_for_Social_Media_Strategy_(public).ipynb
+---
+
+## Automatic TikTok Video Understanding for Social Media Strategy
 [Google Colab](https://raw.githubusercontent.com/ktynski/Marketing_Automations_Notebooks_With_GPT/main/Automatic_TikTok_Video_Understanding_for_Social_Media_Strategy_(public).ipynb)
 
 This script enables automated analysis of TikTok video content using state-of-the-art AI models. It separates audio, transcribes using Whisper, encodes video understanding with Vicuna, and generates insights tailored to marketing goals. The key features are:
@@ -96,7 +104,9 @@ This script enables automated analysis of TikTok video content using state-of-th
 - OpenAI API Key
 - Google Colab + A100 GPU
 
-## Automatic_Newsjacking_Ideation_and_Trend_Analysis_(Public).ipynb
+---
+
+## Automatic Newsjacking Ideation and Trend_Analysis
 [Google Colab](https://raw.githubusercontent.com/ktynski/Marketing_Automations_Notebooks_With_GPT/main/Automatic_Newsjacking_Ideation_and_Trend_Analysis_(Public).ipynb)
 
 This script enables automated newsjacking ideation by collecting Google News articles on a topic, clustering them using sentence embeddings, summarizing clusters with GPT-3, and generating tailored content ideas. Key features:
@@ -111,7 +121,9 @@ This script enables automated newsjacking ideation by collecting Google News art
 - SerpAPI Key
 - OpenAI API Key
 
-## Automated_Onsite_SEO_Link_Optimizations_(Public).ipynb
+---
+
+## Automated Onsite SEO Link Optimizations
 [Google Colab](https://raw.githubusercontent.com/ktynski/Marketing_Automations_Notebooks_With_GPT/main/Automated_Onsite_SEO_Link_Optimizations_(Public).ipynb)
 
 This script automates analysis of on-page links to provide SEO optimization recommendations. It scrapes specified URLs, analyzes linked page content with Newspaper3k, generates anchor text recommendations with GPT-3, and outputs results to a CSV.
@@ -126,7 +138,9 @@ This script automates analysis of on-page links to provide SEO optimization reco
 📜 Requirements:
 - OpenAI API Key
 
-## Automated_Subreddit_and_Post_Title_Recommendations_Based_on_Any_Article_(Public).ipynb
+---
+
+## Automated Subreddit and Post Title Recommendations Based on Any Article
 [Google Colab](https://raw.githubusercontent.com/ktynski/Marketing_Automations_Notebooks_With_GPT/main/Automated_Subreddit_and_Post_Title_Recommendations_Based_on_Any_Article_(Public).ipynb)
 
 This script analyzes an article and generates subreddit and post title recommendations using GPT-3. It summarizes the article, recommends target subreddits, and creates tailored titles for each subreddit.
@@ -139,8 +153,10 @@ This script analyzes an article and generates subreddit and post title recommend
 📜 Requirements:
 - OpenAI API Key
 - Reddit API Credentials
+
+---
   
-## Automatic_Article_Outline_Generation_by_Analyzing_The_Article_Text_of_Top_Ranking_Pages_for_a_Given_Keyword_(Public).ipynb
+## Automatic Article Outline Generation by Analyzing The Article Text of Top Ranking Pages for a Given_Keyword
 [Google Colab](https://raw.githubusercontent.com/ktynski/Marketing_Automations_Notebooks_With_GPT/main/Automatic_Article_Outline_Generation_by_Analyzing_The_Article_Text_of_Top_Ranking_Pages_for_a_Given_Keyword_(Public).ipynb)
 
 This script scrapes and analyzes top-ranking pages for a keyword to generate automated article outlines optimized for SEO. Key features:
@@ -153,7 +169,9 @@ This script scrapes and analyzes top-ranking pages for a keyword to generate aut
 📜 Requirements:
 - OpenAI API Key
 
-## Automated_Video_Translation_with_LipSync_Public_Kristin_frac_tl.ipynb
+---
+
+## Automated Video Translation with LipSync
 [Google Colab](https://raw.githubusercontent.com/ktynski/Marketing_Automations_Notebooks_With_GPT/main/Automated_Video_Translation_with_LipSync_Public_Kristin_frac_tl.ipynb)
 
 This script enables automated video translation with lip sync using OpenAI Whisper for speech-to-text and Wav2Lip for lip generation. Key features:
@@ -168,7 +186,9 @@ This script enables automated video translation with lip sync using OpenAI Whisp
 - OpenAI API Key
 - Wav2Lip, FFmpeg
 
-## Automatically_Generate_a_Summary,_Article_Outline,_Long_form_Article,_and_Tweet_Thread_from_a_Youtube_URL_(Public).ipynb
+---
+
+## Automatically Generate a Summary, Article Outline, Long form Article, and Tweet Thread from a Youtube URL
 [Google Colab](https://raw.githubusercontent.com/ktynski/Marketing_Automations_Notebooks_With_GPT/main/Automatically_Generate_a_Summary,_Article_Outline,_Long_form_Article,_and_Tweet_Thread_from_a_Youtube_URL_(Public).ipynb)
 
 This script automatically generates a summary, outline, article, and tweet thread from a YouTube video transcript using GPT-3. Key features:
@@ -185,7 +205,9 @@ This script automatically generates a summary, outline, article, and tweet threa
 - OpenAI API Key
 - youtube-dl
 
-## Exploring_Multi_Agent_AI_Collaboration_for_Iterative_Invention,_Critique,_and_Synthesis_Public_By_Kristin_Frac_tl.ipynb
+---
+
+## Exploring Multi Agent AI Collaboration for Iterative Invention, Critique, and Synthesis
 [Google Colab](https://raw.githubusercontent.com/ktynski/Marketing_Automations_Notebooks_With_GPT/main/Exploring_Multi_Agent_AI_Collaboration_for_Iterative_Invention,_Critique,_and_Synthesis_Public_By_Kristin_Frac_tl.ipynb)
 
 This explores using multiple AI agents to iteratively generate, critique, refine, and evaluate invention ideas. Key features:
@@ -202,7 +224,9 @@ This explores using multiple AI agents to iteratively generate, critique, refine
 - OpenAI API Key
 - Stability AI API Key
 
-## Intents,_Personas,_and_Buyer_Inference_(Public).ipynb
+---
+
+## Automatic Intent, Persona ,and Buyer Inference
 [Google Colab](https://raw.githubusercontent.com/ktynski/Marketing_Automations_Notebooks_With_GPT/main/Intents,_Personas,_and_Buyer_Inference_(Public).ipynb)
 
 This script predicts search intents from keywords, generates corresponding personas, and has GPT-3 infer buyer needs and marketing tactics per persona. Key features:
@@ -217,7 +241,9 @@ This script predicts search intents from keywords, generates corresponding perso
 📜 Requirements:
 - OpenAI API Key
 
-## Large_Language_Model_Search_Optimization_(Public).ipynb
+---
+
+## Large Language Model Search Optimization
 [Google Colab](https://raw.githubusercontent.com/ktynski/Marketing_Automations_Notebooks_With_GPT/main/Large_Language_Model_Search_Optimization_(Public).ipynb)
 
 This script optimizes search analysis using large language models like GPT-3. It generates queries, analyzes brand mentions, and creates natural language reports. Key features:
@@ -232,7 +258,9 @@ This script optimizes search analysis using large language models like GPT-3. It
 📜 Requirements:
 - OpenAI API Key
 
-## Prompt_Chaining_Instant_Content_Plan_(Public).ipynb
+---
+
+## Prompt Chaining Instant Content Plan
 [Google Colab](https://raw.githubusercontent.com/ktynski/Marketing_Automations_Notebooks_With_GPT/main/Prompt_Chaining_Instant_Content_Plan_(Public).ipynb)
 
 This script instantly generates a structured SEO content plan by chaining prompts to GPT-3. Key features:  
@@ -247,7 +275,9 @@ This script instantly generates a structured SEO content plan by chaining prompt
 📜 Requirements:
 - OpenAI API Key
 
-## Prompt_Chaining_Press_Earning_Data_Journalism_Stories_(Public).ipynb
+---
+
+## Prompt Chaining For Press Earning Data Journalism Stories
 [Google Colab](https://raw.githubusercontent.com/ktynski/Marketing_Automations_Notebooks_With_GPT/main/Prompt_Chaining_Press_Earning_Data_Journalism_Stories_(Public).ipynb)
 
 This script generates viral data journalism story ideas by chaining GPT-3 prompts for subtopics, data sources, and narratives. Key features:
@@ -262,9 +292,9 @@ This script generates viral data journalism story ideas by chaining GPT-3 prompt
 📜 Requirements:
 - OpenAI API Key
 
-Absolutely, here are the improved summaries following the requested format with bullets:
+---
 
-## The_Ultimate_AI_Researcher_(Public).ipynb
+## The Ultimate AI Researcher
 [Google Colab](https://github.com/ktynski/Marketing_Automations_Notebooks_With_GPT/blob/main/The_Ultimate_AI_Researcher_(Public).ipynb)
 
 - Automates academic literature research using ArXiv, semantic search, summaries, and natural language generation.
@@ -278,6 +308,8 @@ Absolutely, here are the improved summaries following the requested format with 
 📜 Requirements:
 - OpenAI API Key
 
+---
+
 **Automated Content and Keyword Clustering Descriptions with HuggingFace Embeddings, Agglomerative Clustering, and GPT-3**
 [Google Colab](https://github.com/ktynski/Marketing_Automations_Notebooks_With_GPT/blob/main/Automatic_Content_and_Keyword_Clustering_Descriptions_with_HuggingFace_Embeddings,_Agglomerative_Clustering_and_GPT_3_(Public).ipynb)
 
@@ -286,6 +318,8 @@ Absolutely, here are the improved summaries following the requested format with 
 
 📜 Requirements:
 - OpenAI API Key
+
+---
 
 **Automatic Deep TikTok Insights with GPT and Whisper**
 [Google Colab](https://github.com/ktynski/Marketing_Automations_Notebooks_With_GPT/blob/main/Automatic_Deep_TikTok_Insights_with_GPT_and_Whisper_Public.ipynb)
@@ -301,6 +335,8 @@ Absolutely, here are the improved summaries following the requested format with 
 📜 Requirements:
 - OpenAI API Key
 
+---
+
 **Automatic Persona and Motivation Research**
 [Google Colab](https://github.com/ktynski/Marketing_Automations_Notebooks_With_GPT/blob/main/Automatic_Persona_and_Motivation_Research_(public).ipynb)
 
@@ -310,6 +346,8 @@ Absolutely, here are the improved summaries following the requested format with 
 
 📜 Requirements:
 - OpenAI API Key
+
+---
 
 **Automatic Question Expander ala AnswerThePublic**
 [Google Colab](https://github.com/ktynski/Marketing_Automations_Notebooks_With_GPT/blob/main/Automatic_Question_Expander_ala_AnswerThePublic_(Public).ipynb)
@@ -323,6 +361,8 @@ Absolutely, here are the improved summaries following the requested format with 
 📜 Requirements:
 - OpenAI API Key
 
+---
+
 **Automatic Reddit Trend Research with GPT3**
 [Google Colab](https://github.com/ktynski/Marketing_Automations_Notebooks_With_GPT/blob/main/Automatic_Reddit_Trend_Research_with_GPT3_(Public).ipynb)
 
@@ -333,6 +373,8 @@ Absolutely, here are the improved summaries following the requested format with 
 📜 Requirements:
 - OpenAI API Key
 -  Reddit api credentials
+
+---
 
 **Automatic Schema Improvements with GPT4**
 [Google Colab](https://github.com/ktynski/Marketing_Automations_Notebooks_With_GPT/blob/main/Automatic_Schema_Improvements_with_GPT4_(Public).ipynb)
