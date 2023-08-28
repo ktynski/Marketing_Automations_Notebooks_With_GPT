@@ -1,5 +1,5 @@
-# 🎥 Free Script - Leveraging SOTA MultiModal AI for Video Understanding - An Iterative Approach to Replicating Viral Success on TikTok 🐍
-
+# 🎥 Leveraging SOTA MultiModal AI for Video Understanding - An Iterative Approach to Replicating Viral Success on TikTok 🐍
+https://github.com/ktynski/Marketing_Automations_Notebooks_With_GPT/blob/main/Automated_TikTok_Video_Understanding_for_Social_Media_Strategy_(public).ipynb
 This script utilizes Apify API for TikTok data collection, OpenAI Whisper for automated transcription, and Vicuna multi-modal AI for video understanding to provide automated and customized analysis of TikTok videos. It identifies key factors for viral success on TikTok and generates a structured report.
 
 🔑 Key features:
@@ -15,6 +15,8 @@ This script utilizes Apify API for TikTok data collection, OpenAI Whisper for au
 - Google Colab+
 
 # 📰 Comprehensive News Media Monitoring & Analysis Using Clustering 📊
+https://github.com/ktynski/Marketing_Automations_Notebooks_With_GPT/blob/main/Automatic_Brand_or_Entity_News_Media_Monitoring_and_Analysis_by_Kristin_frac_tl_(public).ipynb
+
 
 This script scrapes Google News for relevant articles, clusters them using sentence embeddings, and analyzes each cluster to identify key narratives, perspectives, biases, etc. using GPT-3.
 
@@ -30,6 +32,7 @@ This script scrapes Google News for relevant articles, clusters them using sente
 - OpenAI API Key
 
 # 📈 Automated Keyword Clustering for Content Gap Analysis 🕵️
+https://github.com/ktynski/Marketing_Automations_Notebooks_With_GPT/blob/main/Automatic_Content_Gap_Report_and_Analysis_With_Clustering_and_Cluster_Descriptions_(Public).ipynb
 
 This script performs automated keyword research and clustering to identify content gaps. It integrates with SEMrush API, generates embeddings using SentenceTransformers, clusters keywords using K-Means, and generates cluster descriptions using GPT-3.
 
@@ -46,6 +49,8 @@ This script performs automated keyword research and clustering to identify conte
 - SEMrush API Key
 
 # 📰 Automated Long-form Article Generation with Semantic SEO Optimization 📝
+https://github.com/ktynski/Marketing_Automations_Notebooks_With_GPT/blob/main/Automatic_Long_Form_Article_Generation_With_Semantic_SEO_Driven_Outlines_and_Iteration_(Public).ipynb
+
 
 This script generates high-quality long-form articles leveraging semantic SEO data. It scrapes Google results, performs NLP analysis, generates outlines optimized for semantic SEO metrics, breaks outlines into sections, and iteratively improves content using GPT-3.
 
@@ -60,6 +65,7 @@ This script generates high-quality long-form articles leveraging semantic SEO da
 - OpenAI API Key
 
 # 💡 Automatic Newsjacking Content Ideation using Clustering 💭
+https://github.com/ktynski/Marketing_Automations_Notebooks_With_GPT/blob/main/Automatic_Newsjacking_Ideation_and_Trend_Analysis_(Public).ipynb
 
 This script collects news articles on a topic, clusters them using sentence embeddings, summarizes clusters using GPT-3, and generates newsjacking content ideas for each cluster.
 
